@@ -8,4 +8,5 @@ How to play:
 4º - Put the Sudoku Folder inside the IDE folder
     Example: NetBeansProjects -> open -> put Sudoku Folder
 5º - Open the Sudoku.java and run the code
-6º - Have fun!
+
+Have fun!
